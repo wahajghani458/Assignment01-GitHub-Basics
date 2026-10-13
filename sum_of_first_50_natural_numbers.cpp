@@ -1,3 +1,8 @@
+/* Title: Sum of First 50 Natural Numbers
+   Name: MUHAMMAD WAHAJ GHANI
+   Reg No: L1S26BSCS0004
+   Assignment: Assignment 1 */
+
 #include <iostream>
 using namespace std;
 
